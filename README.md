@@ -1,24 +1,32 @@
-## 👨‍💻 Computer Engineering Graduate | Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Nguabi da Silva</h1>
+<h3 align="center">A passionate Full-Stack developer from Angola with a strong foundation in **Software Engineering**, **Web Development**, and **Systems Architecture**. Focused on building **scalable, efficient, and maintainable applications** with real-world impact.</h3>
 
-🎓 Computer Engineering graduate from **ISPTEC**, with a strong and practical foundation in **Software Engineering**, **Full-Stack Web Development**, and **Systems Architecture**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gueibysv&label=Profile%20views&color=0e75b6&style=flat" alt="gueibysv" /> </p>
 
-I specialize in designing and developing **robust, scalable, and maintainable applications**, with hands-on experience across the full software development lifecycle — from requirements analysis to deployment.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gueibysv" alt="gueibysv" /></a> </p>
 
-### 💼 Core Competencies
-- **Programming Languages:** Java, C#, C, Python, JavaScript  
-- **Frontend Development:** Angular  
-- **Backend Development:** ASP.NET  
-- **Key Areas:**  
-  - Software Engineering & Design Patterns  
-  - Web Application Development  
-  - Systems Architecture  
-  - Business-Oriented Solutions  
+- Actively developing my **personal portfolio website**, where I showcase academic and personal projects. [Nguabi da Silva](https://nguabi-silva.netlify.app/)
 
-### 🚀 Professional Profile
-- Strong analytical and problem-solving skills  
-- Experience building real-world academic and personal projects  
-- Focus on clean code, performance, and maintainability  
-- Continuous learner with a growth mindset  
+- 🌱 I’m currently learning **Full-Stack best practices, **Angular**, **React**, **ASP.NET**, and modern JavaScript**
 
-📫 Open to **junior software developer**, **full-stack**, or **backend** opportunities.
+- 👨‍💻 All of my projects are available at (in progress) [https://nguabi-silva.netlify.app/](https://nguabi-silva.netlify.app/)
 
+- 📝 I regularly write articles on [https://nguabi-silva.netlify.app/](https://nguabi-silva.netlify.app/)
+
+- 💬 Ask me about **Full-Stack Web Development, Software Engineering, Building web applications from scratch**
+
+- 📫 How to reach me **Gueibysv1@gmail.com**
+
+- ⚡ Fun fact **I enjoy learning new technologies and turning ideas into working solutions**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nguabi da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguabi da silva" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gueibysv&show_icons=true&locale=en&layout=compact" alt="gueibysv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gueibysv&show_icons=true&locale=en" alt="gueibysv" /></p>
