@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👨‍💻 Computer Engineering Graduate | Full-Stack Developer
 
-<!--
-**Gueibysv/Gueibysv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate from **ISPTEC**, with a strong and practical foundation in **Software Engineering**, **Full-Stack Web Development**, and **Systems Architecture**.
 
-Here are some ideas to get you started:
+I specialize in designing and developing **robust, scalable, and maintainable applications**, with hands-on experience across the full software development lifecycle — from requirements analysis to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Core Competencies
+- **Programming Languages:** Java, C#, C, Python, JavaScript  
+- **Frontend Development:** Angular  
+- **Backend Development:** ASP.NET  
+- **Key Areas:**  
+  - Software Engineering & Design Patterns  
+  - Web Application Development  
+  - Systems Architecture  
+  - Business-Oriented Solutions  
+
+### 🚀 Professional Profile
+- Strong analytical and problem-solving skills  
+- Experience building real-world academic and personal projects  
+- Focus on clean code, performance, and maintainability  
+- Continuous learner with a growth mindset  
+
+📫 Open to **junior software developer**, **full-stack**, or **backend** opportunities.
+
