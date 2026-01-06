@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguabi da Silva</h1>
-<h3 align="center">A passionate Full-Stack developer from Angola with a strong foundation in **Software Engineering**, **Web Development**, and **Systems Architecture**. Focused on building **scalable, efficient, and maintainable applications** with real-world impact.</h3>
+<h3 align="center">A passionate Full-Stack developer from Angola with a strong foundation in Software Engineering, Web Development, and Systems Architecture. Focused on building scalable, efficient, and maintainable applications with real-world impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueibysv&label=Profile%20views&color=0e75b6&style=flat" alt="gueibysv" /> </p>
 
@@ -7,21 +7,19 @@
 
 - Actively developing my **personal portfolio website**, where I showcase academic and personal projects. [Nguabi da Silva](https://nguabi-silva.netlify.app/)
 
-- 🌱 I’m currently learning **Full-Stack best practices, **Angular**, **React**, **ASP.NET**, and modern JavaScript**
+- I’m currently learning **Full-Stack best practices, **Angular**, **React**, **ASP.NET**, and modern JavaScript**
 
-- 👨‍💻 All of my projects are available at (in progress) [https://nguabi-silva.netlify.app/](https://nguabi-silva.netlify.app/)
+- All of my projects are available at (in progress) [https://nguabi-silva.netlify.app/](https://nguabi-silva.netlify.app/)
 
-- 📝 I regularly write articles on [https://nguabi-silva.netlify.app/](https://nguabi-silva.netlify.app/)
+- Ask me about **Full-Stack Web Development, Software Engineering, Building web applications from scratch**
 
-- 💬 Ask me about **Full-Stack Web Development, Software Engineering, Building web applications from scratch**
-
-- 📫 How to reach me **Gueibysv1@gmail.com**
+- How to reach me **Gueibysv1@gmail.com**
 
 - ⚡ Fun fact **I enjoy learning new technologies and turning ideas into working solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nguabi da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguabi da silva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nguabi-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguabi-da-silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
